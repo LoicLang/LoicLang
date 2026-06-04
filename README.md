@@ -34,7 +34,7 @@ Different contexts, same question:
   An AI sports coach built around real life, not perfect plans.
   Fatigue, missed sessions, motivation, mental load, progression, setbacks — the things generic training plans usually ignore.
 
-* **MAS-Lite** *(private)*
+* **MAS** *(private)*
   A lightweight multi-agent system for turning fuzzy business needs into structured project proposals.
   The goal is to help move from "we have an idea" to "we understand the need, the constraints, the options, and the next decision."
 
