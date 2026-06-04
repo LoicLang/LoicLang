@@ -67,7 +67,7 @@ I'm a heavy daily user of both **Claude Code** and **Codex** — I live in these
 
 I don't see agentic IDEs as better autocomplete — I see them as a new delivery layer that needs governance. And this isn't abstract for me: I work on AI adoption inside a regulated bank, where quality, security, auditability, and review are non-negotiable, and far tighter than in my personal projects. The real question there isn't whether agents can generate code; it's how they fit into a serious SDLC without becoming an uncontrolled source of truth.
 
-So I spend my time on the live questions, not the easy answers. Does the classic *business need → spec → build* chain still hold with agents in the loop? How do you keep **one source of project truth** when context is scattered across docs, tickets, code, and chat? What do you actually feed an agent — and how do you keep quality, security, and human review in control?
+So I spend my time on the live questions, not the easy answers. Does the classic *business need → spec → build* chain still hold with agents in the loop? How do you keep **one source of project truth** when context is scattered across docs, tickets, code, and chat? What do you actually feed an agent — and how do you keep quality, security, and human review in control? And the hardest one in a large company: how do you make a legacy enterprise system — its business domain, its architecture, its scattered and undocumented knowledge — legible to an agent at all?
 
 I don't claim answers; I'm immersed in the problem, daily — and some of my projects exist partly to test these ideas in the open: repo-grounded context the agent boots from, static danger checks plus live unscripted simulation, and review loops where **state — not prose — is the proof**.
 
