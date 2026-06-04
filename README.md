@@ -4,11 +4,19 @@ I build applied-AI products around a simple question:
 
 > If AI existed from day one, would we still do it this way?
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
+
 Most of the time, the answer is no — and that's what I like exploring: using AI to rethink a real need from the ground up, instead of bolting it onto the old way.
 
 What I genuinely love is the loop: **understand the real need → hack and build → break it → rebuild it better.** Then again.
 
-## What I'm building
+## 🛠️ What I'm building
 
 * **[TaupIA](https://github.com/LoicLang/TaupIA)**
   An AI oral-exam examiner for French *prépa* maths. It challenges a student's reasoning and guides with questions like a real examiner — it never hands over the answer.
@@ -22,7 +30,7 @@ What I genuinely love is the loop: **understand the real need → hack and build
 * **MAS** *(private)*
   A lightweight multi-agent system that turns fuzzy business needs into structured project proposals: from "we have an idea" to "we understand the need, the constraints, and the next decision."
 
-## How I think about agentic IDEs
+## 🤖 How I think about agentic IDEs
 
 > Agentic context must be designed, not improvised.
 
@@ -36,9 +44,18 @@ I don't claim answers; I'm immersed in the problem, daily — and some of my pro
 
 [Read the full note: agentic IDEs in a regulated SDLC →](https://github.com/LoicLang/agentic-sdlc-notes)
 
-## Let's talk
+## 🐍 Watch the code grow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LoicLang/LoicLang/output/snake-dark.svg" alt="Contribution snake" />
+</p>
+
+## 📫 Let's talk
 
 I'm exploring applied-AI roles close to real problems, real users, and real products — especially around education, coaching, and enterprise AI workflows.
 
-* LinkedIn — [linkedin.com/in/loïc-lang-323178138](https://www.linkedin.com/in/loïc-lang-323178138)
-* Email — [loiclang67@gmail.com](mailto:loiclang67@gmail.com)
+<p align="center">
+  <a href="https://github.com/LoicLang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/loïc-lang-323178138"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:loiclang67@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
