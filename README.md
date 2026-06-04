@@ -30,7 +30,7 @@ I'm a heavy daily user of both **Claude Code** and **Codex** — I live in these
 
 I don't see agentic IDEs as better autocomplete — I see them as a new delivery layer that needs governance. And it isn't abstract for me: I work on AI adoption inside a regulated bank, where quality, security, auditability, and review are non-negotiable. The real question isn't whether agents can generate code; it's how they fit into a serious SDLC without becoming an uncontrolled source of truth.
 
-The hardest part is rarely the process — it's making the enterprise itself legible to an agent: the business domain, the information system, the internal frameworks, mostly living as scattered, undocumented, legacy knowledge. Turning that into a designed source of truth an agent can boot from is, to me, where the real leverage is.
+It's not just about dropping an agent into the existing process — the process itself is up for redesign (if AI were there from day one, we wouldn't deliver software the same way). The deeper blocker, though, is making the enterprise *legible* to an agent: the business domain, the information system, the internal frameworks — mostly scattered, undocumented, legacy knowledge. Turning that into a designed source of truth an agent can boot from is, to me, where the real leverage is.
 
 I don't claim answers; I'm immersed in the problem, daily — and some of my projects are where I test these ideas in the open, where **state — not prose — is the proof**.
 
