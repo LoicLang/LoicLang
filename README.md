@@ -63,11 +63,11 @@ The real-world impact matters most.
 
 > Agentic context must be designed, not improvised.
 
-I don't see agentic IDEs as better autocomplete. I see them as a new delivery layer that needs governance: context, specs, tests, review, traceability, and clear human authority.
+I don't see agentic IDEs as better autocomplete — I see them as a new delivery layer that needs governance. And this isn't abstract for me: I work on AI adoption inside a regulated bank, where quality, security, auditability, and review are non-negotiable, and far tighter than in my personal projects. The real question there isn't whether agents can generate code; it's how they fit into a serious SDLC without becoming an uncontrolled source of truth.
 
-In a regulated banking environment, the real question isn't whether agents can generate code. It's how they fit into a serious SDLC without becoming an uncontrolled source of truth.
+So I spend my time on the live questions, not the easy answers. Does the classic *business need → spec → build* chain still hold with agents in the loop? How do you keep **one source of project truth** when context is scattered across docs, tickets, code, and chat? What do you actually feed an agent — and how do you keep quality, security, and human review in control?
 
-I explore this through repo-grounded workflows: a durable source of project truth the agent boots from (specs, architecture docs, decision records) rather than chat memory; static checks for known dangers and live, unscripted simulations for real behaviour; and review loops where **state — not prose — is the proof**.
+I don't claim answers; I'm immersed in the problem, daily — and some of my projects exist partly to test these ideas in the open: repo-grounded context the agent boots from, static danger checks plus live unscripted simulation, and review loops where **state — not prose — is the proof**.
 
 [Read the full note: agentic IDEs in a regulated SDLC →](https://github.com/LoicLang/agentic-sdlc-notes)
 
