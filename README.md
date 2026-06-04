@@ -6,6 +6,8 @@ I build applied-AI products around a simple question:
 
 Most of the time, the answer is no — and that's what I like exploring: using AI to rethink a real need from the ground up, instead of bolting it onto the old way.
 
+What I genuinely love is the loop: **understand the real need → hack and build → break it → rebuild it better.** Then again.
+
 ## What I'm building
 
 * **[TaupIA](https://github.com/LoicLang/TaupIA)**
