@@ -59,6 +59,18 @@ The model matters.
 The product matters more.
 The real-world impact matters most.
 
+## How I think about agentic IDEs
+
+> Agentic context must be designed, not improvised.
+
+I don't see agentic IDEs as better autocomplete. I see them as a new delivery layer that needs governance: context, specs, tests, review, traceability, and clear human authority.
+
+In a regulated banking environment, the real question isn't whether agents can generate code. It's how they fit into a serious SDLC without becoming an uncontrolled source of truth.
+
+I explore this through repo-grounded workflows: a durable source of project truth the agent boots from (specs, architecture docs, decision records) rather than chat memory; static checks for known dangers and live, unscripted simulations for real behaviour; and review loops where **state — not prose — is the proof**.
+
+[Read the full note: agentic IDEs in a regulated SDLC →](https://github.com/LoicLang/agentic-sdlc-notes)
+
 ## Where I come from
 
 I started in industrial automation.
