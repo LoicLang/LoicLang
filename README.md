@@ -103,3 +103,4 @@ I'm always happy to connect with people building useful AI products, especially 
 
 * LinkedIn — [linkedin.com/in/loïc-lang-323178138](https://www.linkedin.com/in/loïc-lang-323178138)
 * Email — [loiclang67@gmail.com](mailto:loiclang67@gmail.com)
+
