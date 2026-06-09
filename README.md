@@ -18,14 +18,14 @@ What I genuinely love is the loop: **understand the real need → hack and build
 
 ## 🛠️ What I'm building
 
+* **[FitMAS](https://github.com/LoicLang/fitMAS)**
+  An autonomous coaching staff for real-life consistency — built around fatigue, missed sessions and setbacks, not a perfect plan. The LLM proposes, a deterministic verifier holds authority, and the coach reaches out on its own. Live as my daily dogfood.
+
 * **[TaupIA](https://github.com/LoicLang/TaupIA)**
   An AI oral-exam examiner for French *prépa* maths. It challenges a student's reasoning and guides with questions like a real examiner — it never hands over the answer.
 
 * **[use-case-assistant](https://github.com/LoicLang/use-case-assistant)**
   Turns a vague business AI idea into a structured, usable intake form — challenging unclear needs and asking for missing context before jumping to a solution.
-
-* **[FitMAS](https://github.com/LoicLang/fitMAS)**
-  An autonomous coaching staff for real-life consistency — built around fatigue, missed sessions and setbacks, not a perfect plan. The LLM proposes, a deterministic verifier holds authority, and the coach reaches out on its own. Live as my daily dogfood.
 
 * **MAS** *(private)*
   A lightweight multi-agent system that turns fuzzy business needs into structured project proposals: from "we have an idea" to "we understand the need, the constraints, and the next decision."
