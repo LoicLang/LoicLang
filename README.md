@@ -1,9 +1,5 @@
 # Hi, I'm Loïc 👋
 
-I build applied-AI products around a simple question:
-
-> If AI existed from day one, would we still do it this way?
-
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
@@ -11,6 +7,10 @@ I build applied-AI products around a simple question:
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
+
+I build applied-AI products around a simple question:
+
+> If AI existed from day one, would we still do it this way?
 
 Most of the time, the answer is no — and that's what I like exploring: using AI to rethink a real need from the ground up, instead of bolting it onto the old way.
 
