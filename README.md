@@ -27,8 +27,8 @@ What I genuinely love is the loop: **understand the real need → hack and build
 * **[use-case-assistant](https://github.com/LoicLang/use-case-assistant)**
   Turns a vague business AI idea into a structured, usable intake form — challenging unclear needs and asking for missing context before jumping to a solution.
 
-* **MAS** *(private)*
-  A lightweight multi-agent system that turns fuzzy business needs into structured project proposals: from "we have an idea" to "we understand the need, the constraints, and the next decision."
+* **scopegraph** *(private)*
+  An ecosystem-aware scoping assistant: describe a project idea and it finds the existing context in a curated knowledge graph — systems, past decisions, inherited constraints — then shows the links, challenges the need, and generates a grounded scoping dossier. The LLM proposes; a deterministic runtime decides.
 
 ## 🤖 How I think about agentic IDEs
 
